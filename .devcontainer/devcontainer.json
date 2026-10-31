@@ -1,0 +1,9 @@
+{
+  "name": "FreightRates",
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "forwardPorts": [7860, 8501],
+  "portsAttributes": {
+    "7860": { "label": "Freight Rate API (Flask)" },
+    "8501": { "label": "Freight Rate UI (Streamlit)" }
+  }
+}

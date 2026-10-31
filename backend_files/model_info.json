@@ -1,0 +1,11 @@
+{
+  "model": "Tuned XGBoost",
+  "mode": "FCL",
+  "price_unit": "USD per container",
+  "trained_through": "2026-04-13",
+  "market_data_through": "2026-10-12",
+  "test_mape": 0.02241,
+  "data_source": [
+    "SYNTHETIC"
+  ]
+}
